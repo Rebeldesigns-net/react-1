@@ -1,5 +1,12 @@
 # @primer/components
 
+## 34.5.1
+
+### Patch Changes
+
+- [#1855](https://github.com/primer/react/pull/1855) [`c3b4ad70`](https://github.com/primer/react/commit/c3b4ad705a40f6e0f09dd74cf8457cb6bc0d5ca1) Thanks [@jclem](https://github.com/jclem)! - Fix [an issue](https://github.com/primer/react/issues/1849) where transitive
+  dependency interface augmentations appeared in our build output
+
 ## 34.5.0
 
 ### Minor Changes
